@@ -1,0 +1,42 @@
+
+
+h1{
+    color: #DB9140;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 6.25rem;
+}
+
+h3{
+    color: white;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 2rem;
+}
+
+p {
+    color: white;
+    
+}
+
+.btn-1 {
+    color: white;
+    border: 2px solid #DB9140;
+    font-family: 'Philosopher', sans-serif;
+}
+
+.btn-1:hover {
+    background-color: #DB9140;
+    border: 2px solid #DB9140;
+}
+
+.bghome {
+    background-image: url("./img/bgindex.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+a {
+    color: white;
+    font-family: 'Philosopher', sans-serif;
+}
+
