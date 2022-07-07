@@ -1,5 +1,4 @@
 
-
 h1{
     color: #DB9140;
     font-family: 'Philosopher', sans-serif;
@@ -26,7 +25,12 @@ h4{
 
 p {
     color: white;
+    font-family: 'Philosopher', sans-serif;
     
+}
+
+.myp {
+    padding: 40px;
 }
 
 h2:hover{
@@ -70,6 +74,24 @@ h2:hover{
 
 .mycontainer {
     height: 500px;
+}
+
+.mytextc {
+    width: 900px;
+}
+
+
+.pc {
+    text-align: center;
+}
+
+.h3c {
+    text-align: center;
+}
+.myimg {
+    margin-left: 64px;
+    margin-right: 64px;
+    margin-top: 24px;
 }
 
 .center {
@@ -121,6 +143,10 @@ h2:hover{
 
     .mycontainer {
         height: 500px;
+    }
+
+    .mytextc {
+        width: 100%;
     }
 
     .btn-1 {
