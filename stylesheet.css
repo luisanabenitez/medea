@@ -1,4 +1,5 @@
 
+
 h1{
     color: #DB9140;
     font-family: 'Philosopher', sans-serif;
@@ -28,6 +29,22 @@ p {
     font-family: 'Philosopher', sans-serif;
     
 }
+
+.collage {
+    width: 816px;
+    height: 653px;
+    background: url("./img/collage.png") no-repeat;
+    display: inline-block;
+}
+
+.collage:hover {
+    background: url("./img/collage2.png") no-repeat;
+}
+
+.collagewh {
+    margin-left: 25%;
+}
+
 
 .myp {
     padding: 40px;
